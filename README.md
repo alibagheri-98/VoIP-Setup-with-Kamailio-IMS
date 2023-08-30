@@ -1,7 +1,6 @@
 # VoIP-Setup-with-Kamailio-IMS
----
-title: VoIP Setup with Kamailio IMS
----
+
+This repository showcases the implementation and configuration of IMS, followed by the establishment of a VoIP call between two users. Additionally, it demonstrates the visualization of all call flows using sngrep. This was my final project for the Mobile Data Networks course instructed by Dr. Bayat Sarmadi at Sharif University in Spring 2022.
 
 Setup description:
 - MCC: 001, MNC: 01
