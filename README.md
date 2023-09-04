@@ -907,6 +907,3 @@ Also,
 Debugging Diameter messages between PCRF and P-CSCF in Wireshark if the TCP/SCTP port other than 3868
 
 Open Wireshark --> Preferences --> Protocols --> Diameter --> Change to whatever ports are being used
-
-
-#### Appendix
